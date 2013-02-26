@@ -1,3 +1,6 @@
+This library is deprecated, please use pyrollbar_
+========================================================================================
+
 pyratchet
 =========
 
@@ -158,5 +161,6 @@ Get in touch! We'd love to hear what you think and we're happy to help.
 - Want to contribute? Send a pull request at https://github.com/ratchetio/pyratchet
 
 
+.. _pyrollbar: https://github.com/rollbar/pyrollbar
 .. _Ratchet.io: http://ratchet.io/
 .. _error tracking: http://ratchet.io/
